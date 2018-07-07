@@ -4,9 +4,6 @@ using UnityEngine;
 using UnityEngine.UI;
 
 public class Manager : MonoBehaviour {
-
-
-
     public GameObject questionPrefab;
     public Dictionary<int, int> qustion_answer;
     public List<GameObject> questions;
