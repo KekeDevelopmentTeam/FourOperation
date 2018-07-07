@@ -1,2 +1,9 @@
+<<<<<<< HEAD
 
 Creating a new branch dev
+=======
+this is a test  xiahaidasdads
+this is  a  xiugai
+second
+third
+>>>>>>> 0e965837e7a01c71671ab318d4d494c5a6464891
