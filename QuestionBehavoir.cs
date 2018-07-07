@@ -5,7 +5,10 @@ using UnityEngine.UI;
 
 public class QuestionBehavoir : MonoBehaviour {
 
-    // Use this for initialization
+    // Use this for 
+
+
+initialization
     public Button button;
     public int ans;
     public InputField input;
